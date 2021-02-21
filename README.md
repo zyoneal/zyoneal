@@ -3,6 +3,7 @@
 ## I'm a student
 
 ## Languages
-![Flutter](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 
 Follow me   
