@@ -14,6 +14,7 @@ alt="git" width="40" height="40"/> </a>
 </p>
 
 ## Contact Me 📫
+**victor.pivenoff@gmail.com**
 
 You can find and get touch with me via Linkedin!
 
