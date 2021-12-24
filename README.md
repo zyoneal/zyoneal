@@ -15,7 +15,7 @@ alt="git" width="40" height="40"/> </a>
 
 
 ## Certificates
-Eleks Java Camp 2021
+**Eleks Java Camp 2021**
 [Certificate for successful completion of Java Camp](https://drive.google.com/file/d/1ADLzoXMnEPpd9VTZzIL7PbLzHlmRZg_Q/view?usp=sharing)
 
 ## Contact Me 📫
