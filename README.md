@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">I'm a beginner Java backend developer</h3>
+<h3 align="center">I'm a novice Java backend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
