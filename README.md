@@ -21,7 +21,3 @@ alt="git" width="40" height="40"/> </a>
 
 ## Contact Me 📫
 **victor.pivenoff@gmail.com**
-
-You can find and get touch with me via Linkedin!
-
-[![Linkedin Badge](https://img.shields.io/badge/zyoneal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zyoneal/)
